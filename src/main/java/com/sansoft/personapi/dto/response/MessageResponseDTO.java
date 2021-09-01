@@ -1,4 +1,4 @@
-package com.sansoft.personapi.dto;
+package com.sansoft.personapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
